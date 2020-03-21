@@ -1,1 +1,1 @@
-# wyklady
+# Wykłady z przetwarzania języka naturalnego
